@@ -40,9 +40,9 @@
         <url>https://gitbox.apache.org/repos/asf?p=aries.git;a=summary</url>
     </scm>
 
-    <!-- VERSIONS - PLEASE NOTE 
-         All version information for the samples is maintained in this pom. The versions are used by submodules automatically 
-         AND are referred to in 'filtered-resources' for each project when building (eg) assemblies. 
+    <!-- VERSIONS - PLEASE NOTE
+         All version information for the samples is maintained in this pom. The versions are used by submodules automatically
+         AND are referred to in 'filtered-resources' for each project when building (eg) assemblies.
      -->
 
     <properties>
