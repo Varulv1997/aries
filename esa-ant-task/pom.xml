@@ -14,7 +14,7 @@
 	<name>Aries ESA Ant Task</name>
 	<description>Builds an esa (Enterprise Subsystem Archive) from the project for deployment to an aries server.</description>
 	<properties>
-		<ant.version>1.8.0</ant.version>
+		<ant.version>1.9.15</ant.version>
 		<bnd.version>2.4.0</bnd.version>
 	</properties>
 	<dependencies>
